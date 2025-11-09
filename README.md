@@ -1,2 +1,7 @@
 # Netlix-clone
-Netlix-clone projesi
+Netlix clone projesidir.
+
+# Libraries
+fontawsome 
+
+googlefonts 
